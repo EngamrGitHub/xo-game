@@ -76,6 +76,7 @@ class _gameScreenState extends State<gameScreen> {
                 ),
               ),
               Expanded(
+                // welcome amr khaled
                 flex: 7,
                 child: Container(
                   margin: EdgeInsets.symmetric(vertical: 10),
