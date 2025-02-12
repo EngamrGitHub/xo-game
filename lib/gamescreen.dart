@@ -76,12 +76,13 @@ class _gameScreenState extends State<gameScreen> {
                 ),
               ),
               Expanded(
+                // welcome amr khaled
                 flex: 7,
                 child: Container(
                   margin: EdgeInsets.symmetric(vertical: 10),
                   padding: EdgeInsets.all(10),
                   decoration: BoxDecoration(
-                    color: Color(0xffFFFFFF),
+                    color: Colors.white,
                     borderRadius: BorderRadius.circular(44),
                   ),
                   child: Column(
