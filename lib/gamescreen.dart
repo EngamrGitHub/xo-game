@@ -81,7 +81,7 @@ class _gameScreenState extends State<gameScreen> {
                   margin: EdgeInsets.symmetric(vertical: 10),
                   padding: EdgeInsets.all(10),
                   decoration: BoxDecoration(
-                    color: Color(0xffFFFFFF),
+                    color: Colors.white,
                     borderRadius: BorderRadius.circular(44),
                   ),
                   child: Column(
